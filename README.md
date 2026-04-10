@@ -71,9 +71,12 @@ Repeat until you're satisfied.
 
 The skill will ask for whichever is missing before starting.
 
-## Installation
+## Setup
 
-Place the skill folder in your Claude Code superpowers skills directory. The skill is automatically triggered by the phrases above — no manual invocation needed.
+```bash
+git clone https://github.com/IamMichael23/claude-assignment-checker
+cp -r claude-assignment-checker ~/.claude/plugins/assignment-checker
+```
 
 ## File Structure
 

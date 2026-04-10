@@ -163,6 +163,19 @@ When the user re-uploads after fixing:
 
 Track iteration numbers. Never skip a full re-check — fixes can introduce new problems.
 
+## Task Checklist
+
+Copy this checklist and check off items as you complete them:
+
+- [ ] Task 1: Read rubric and assignment files completely
+- [ ] Task 2: Map rubric requirements to assignment sections
+- [ ] Task 3: Run Agent 1 — Rubric Grader (whole doc + per section)
+- [ ] Task 4: Run Agent 2 — Academic Critic (whole doc + per section)
+- [ ] Task 5: Run Agent 3 — Copy Editor (whole doc + per section)
+- [ ] Task 6: Check for contradictions between agent reports
+- [ ] Task 7: Merge all findings into ranked master checklist
+- [ ] Task 8: Output final Grade Report
+
 ## Reference Files
 
 - `references/ai-writing-patterns.md` — Full list of AI writing patterns to detect.
